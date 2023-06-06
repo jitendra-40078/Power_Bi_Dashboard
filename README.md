@@ -5,4 +5,5 @@ Data Analysis of 5000 fastest growing private companies in the United States usi
 #### Used complex parameter to drill down in worksheet and customization using filter and sclicer.
 #### Creted new colunms, calculation to manupulate data and enable user driven parameter for visualizations.
 #### Used different types of customized visualization like Bar chart, Pie chart, Donut chart, Clustered bar chart, Scatter chart, Line chart, Area chart, map, scilers, etc.
+![Image Description](relative/path/to/Dashboard.jpg)
 
